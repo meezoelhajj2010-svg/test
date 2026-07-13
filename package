@@ -1,0 +1,22 @@
+{
+  "name": "tw-system-bot",
+  "version": "1.0.0",
+  "description": "بوت سيرفر TW الاحترافي للتذاكر، المحفظة المالية، والتحذيرات",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "ticket",
+    "wallet",
+    "moderation"
+  ],
+  "author": "TW Developer",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.14.0",
+    "dotenv": "^16.4.5"
+  }
+}
